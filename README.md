@@ -22,3 +22,7 @@ https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/as
 
 
 - HW4 - TD3 on CarRacing-v2
+
+  python, result
+
+  ![image](https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/assets/80504001/94616f56-d51a-48a0-96de-6b268e78dd59)
