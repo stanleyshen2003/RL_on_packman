@@ -25,4 +25,11 @@ https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/as
 
   python, result
 
-  ![image](https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/assets/80504001/94616f56-d51a-48a0-96de-6b268e78dd59)
+  ![螢幕擷取畫面 2023-12-03 163415](https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/assets/80504001/b603bb31-1428-400c-a409-8d57834e2a55)
+
+
+https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/assets/80504001/4305c61b-f91c-42df-b9f5-186d8afba44d
+
+lt
+
+  
