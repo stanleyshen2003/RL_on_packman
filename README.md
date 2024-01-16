@@ -30,6 +30,11 @@ https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/as
 
 https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/assets/80504001/4305c61b-f91c-42df-b9f5-186d8afba44d
 
-lt
+- Final project - CarRacing
+
+  python, result
+
+  https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/assets/80504001/b86f1390-5d2d-45f3-9be1-4f969fd37b41
+
 
   
