@@ -1,4 +1,4 @@
-# selected-topics-for-Reinforcement-learning
+# selected-topics-for-RL
 NYCU 112 spring, lectured by 吳毅成
 <br> </br>
 
