@@ -4,6 +4,9 @@ Environment from [racecar_gym](https://github.com/axelbr/racecar_gym)
 Details in [spec](https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/blob/main/Final_project/Selected%20Topics%20in%20Reinforcement%20Learning%20-%20Final%20%20Project.pdf)
 
 Training process in [report](https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/blob/main/Final_project/report.pdf)
+
+Ranking can be found in leaderboard
+
 ## Maps
 #### Circle
 - stop when collision
