@@ -11,8 +11,7 @@ Training process in [report](https://github.com/stanleyshen2003/selected-topics-
 - rank: 9/65
 
 
-https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/assets/80504001/1fb5f086-3c9b-4900-8a18-27a77ba0c00b
-
+https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/assets/80504001/90f5b750-6ed6-433b-846e-bf540651ee9d
 
 
 
