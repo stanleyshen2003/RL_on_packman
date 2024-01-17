@@ -19,7 +19,7 @@ NYCU 112 spring, lectured by 吳毅成
   ![image](https://github.com/stanleyshen2003/selected-topics-for-Reinforcement-learning/assets/80504001/75b06d3d-ff74-4f75-8879-bb5a26217ed0)
 
 <br> </br>
-## HW3 - PPO on Enduro-v5 (gyn/atari)
+## HW3 - PPO on Enduro-v5 (gym/atari)
   - python
   - result
   
